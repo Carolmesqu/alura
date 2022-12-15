@@ -1,0 +1,6 @@
+1º git init (Criando um novo repositorio vázio na pasta.)
+2º git status (Para verificar os arquivos que que foram feitos, para subir para o Git.)
+3º git remote add origin https://github.com/Carolmesqu/alura (Para vincularmos o repositorio.)
+4º git add . (Para adicionarmos todos os arquivos no repositorio.)
+5º git commit -m "Mensagem aqui para identificar o que foi feito."
+6º git push origin master (Para subir os arquivos na nuvem, no repositorio.)
