@@ -21,3 +21,4 @@ function calculaMedia(notasDaSala){
 console.log(`A média da sala de JavaScrip é ${calculaMedia(salaJS)}`);
 console.log(`A média da sala de Java é ${calculaMedia(salaJava)}`);
 console.log(`A média da sala de Python é ${calculaMedia(salaPython)}`);
+

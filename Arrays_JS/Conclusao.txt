@@ -1,0 +1,31 @@
+No começo do curso, calculamos nossa primeira média, criando nosso primeiro array 
+e vendo como acessar seus valores da forma mais simplificada. Começamos a ver os primeiros métodos e propriedades.
+
+Vimos como utilizar os métodos .push(), que adiciona um novo item ao final, e o .pop(), 
+que remove o último item. Também vimos como separar um array em partes com slice(), 
+utilizamos para obter dois novos arrays a partir de um.
+
+E vimos as diferenças entre os métodos do JS, onde alguns alteram a array original e outros retornam novos arrays. 
+É importante ter isso em mente, sempre consultando a documentação em caso de dúvida.
+
+Vimos como remover e incluir novos elementos em um array com splice(), sendo que esse método permite remover 
+elementos de qualquer posição do array. Vimos como juntar elementos em um único array com concat(); 
+sendo que essa é uma forma facilitada de juntar dois arrays.
+
+Aprendemos a trabalhar com arrays de duas dimensões, também chamados de matrizes. Vimos que uma lista também 
+pode guardar outras listas! Para acessar elementos das listas mais internas, devemos informar primeiro os índices 
+das mais externas e depois os das mais internas, como por exemplo com funcionarios[0][2].
+
+Em seguida, aprendemos sobre os laços de repetição, vimos o for clássico, presente em praticamente toda linguagem 
+de programação. Também utilizamos o for para calcular média e também usamos o for of e o forEach() para calcular a média.
+
+No forEach() começamos a ver métodos de arrays para realizar laços de repetição. Utilizamos o map() para reescrever 
+arrays, fizemos com números e com strings. utilizamos também o filer e o reduce, que são métodos mais modernos que 
+facilitam a resolução dos problemas e você os verá sendo bastante utilizados no mercado.
+
+Por fim, entendemos o problema de referência do JavaScript ao tentar atribuir um array a um novo. Para resolver esse 
+problema, utilizamos o spread operator para espalhar todos os valores de um array em um novo, realizando a clonagem com sucesso.
+
+Também vimos como utilizar uma estrutura de dados mais avançada, a estrutura Set. Vimos como criar um Set a partir 
+de um array existente, a fim de remover todas as suas duplicatas. Em seguida, utilizamos o spread operator para 
+converter o Set de volta em uma lista.
