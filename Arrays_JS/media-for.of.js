@@ -20,3 +20,12 @@ console.log(`A média das notas é ${media}`);
  * queremos fazer: percorrer todos os elementos do 
  * início ao fim.
  */
+
+const lista = [1, 2, 3, 4, 5];
+let soma = 0;
+
+for (let elemento of lista) {
+ soma += elemento;
+}
+
+console.log(soma) //15

@@ -64,3 +64,13 @@ for (let i = 0; i <= 100; i += 2) {
 }
 
 console.table(numerosPares);
+
+
+/**
+ * Dentro da expressão temos:
+uma variável contadora, que é criada antes do início do laço (let indice);
+uma expressão de teste (indice < lista.length), que é executada antes de 
+cada iteração e que verifica se o código dentro do bloco {} deve ou não ser executado;
+por último, uma expressão que é executada ao final de cada laço, normalmente 
+um incremento (++) ou decremento (--) da variável contadora.
+ */
