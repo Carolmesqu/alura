@@ -9,3 +9,12 @@ Que o spread operator (ou sintaxe de espalhamento) pode ser uma opção para dec
 
 JSON = Java-Script-Object-Notation
 Funções não são permitidas em JSON, comentários não são permitidos e suporta apenas tipos primitivos (string, number, boolean, null), não é permitido undefined;
+
+O que é o formato JSON e por qual motivo o utilizamos, como por exemplo a transmissão de dados ou armazenamento de configurações;
+Qual a sintaxe do JSON e suas limitações, como não ter variáveis ou comentários;
+Como ler um arquivo .json no Node.js;
+Como utilizar as funções nativas do Node.js para manipular um JSON.
+
+Que podemos utilizar os métodos de listas em conjunto com objetos;
+Como passamos os parâmetros e propriedades dos objetos para alguns métodos de listas;
+Vimos exemplos de como encontrar, filtrar e ordenar uma lista de objetos.
